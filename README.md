@@ -1,2 +1,4 @@
 # WKWebViewTrySample
-Try WKWebViewTrySample. Language Using Objective-C.
+WKWebViewTrySample.
+
+Working on iOS10.
